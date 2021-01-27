@@ -1,0 +1,95 @@
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\elaroye cadastro.StaticWebAssets.xml
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\elaroye cadastro.exe
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\elaroye cadastro.deps.json
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\elaroye cadastro.runtimeconfig.json
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\elaroye cadastro.runtimeconfig.dev.json
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\elaroye cadastro.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\elaroye cadastro.pdb
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\elaroye cadastro.Views.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\elaroye cadastro.Views.pdb
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Desenvolvimento\c#\elaroye cadastro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\elaroye cadastro.csprojAssemblyReference.cache
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\elaroye cadastro.AssemblyInfoInputs.cache
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\elaroye cadastro.AssemblyInfo.cs
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\elaroye cadastro.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\elaroye cadastro.MvcApplicationPartsAssemblyInfo.cs
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\elaroye cadastro.MvcApplicationPartsAssemblyInfo.cache
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\elaroye cadastro.RazorAssemblyInfo.cache
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\elaroye cadastro.RazorAssemblyInfo.cs
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\elaroye cadastro.TagHelpers.input.cache
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\elaroye cadastro.TagHelpers.output.cache
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\elaroye cadastro.RazorCoreGenerate.cache
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\elaroye cadastro.RazorTargetAssemblyInfo.cache
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\elaroye cadastro.RazorTargetAssemblyInfo.cs
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\elaroye cadastro.Views.pdb
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\elaroye cadastro.csproj.CopyComplete
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\staticwebassets\elaroye cadastro.StaticWebAssets.Manifest.cache
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\staticwebassets\elaroye cadastro.StaticWebAssets.xml
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\elaroye cadastro.dll
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\elaroye cadastro.pdb
+D:\Desenvolvimento\c#\elaroye cadastro\obj\Debug\netcoreapp3.1\elaroye cadastro.genruntimeconfig.cache
